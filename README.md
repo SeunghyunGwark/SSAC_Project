@@ -68,32 +68,6 @@ face_detection-master
 5. 코 인식
 
 ###   2. 팀원 회의
-💃+🧸+🦦+🐸
 
 
-## :프로젝트 소개
 
-
-## : 핵심 코드
-
-
-## :open_file_folder: Open Source ,,
-
-- `bumptech/glide`
-
-이미지 로딩 라이브러리
-
-- `airbnb/lottie-android`
-
-;;;에서 high-quality 애니메이션(Json 파일)을 추가.
-
-
-## :whale: Todo
-
-
-## :baby_chick: 프로젝트 이미지
-<p float="left">
- <img width="471" alt="image" src="https://user-images.githubusercontent.com/68671394/129550491-0e06e6ac-1eab-43d8-b482-7a8235331b06.png">
-
-</p>
-d
