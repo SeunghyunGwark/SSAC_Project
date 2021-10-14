@@ -16,6 +16,12 @@
 
 ***
 
+## [🧸:미니 프로젝트 8조]
+
+
+[프로젝트 분석]()
+***
+
 ## [🧸:미니 프로젝트 4조](https://github.com/lechangjun/Toy-Projects_SSAC/tree/main/%5B%EC%97%94%EC%BD%94%EC%95%84%5D%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B802_4%ED%8C%80_%EC%9D%B4%EC%B0%BD%EC%A4%80_%EC%9C%A4%EC%A7%80%EC%9B%90_%EA%B3%BD%EC%8A%B9%ED%98%84)
 
 ###   1. 미니 프로젝트 분석
