@@ -9,7 +9,7 @@
 
 
 
-> [Python](https://github.com/lechangjun/Toy-Projects_SSAC/tree/main/COVID19_%20Analysis)
+> [Python Algorithm Study](https://github.com/lechangjun/Toy-Projects_SSAC/tree/main/COVID19_%20Analysis)
 
 
 
