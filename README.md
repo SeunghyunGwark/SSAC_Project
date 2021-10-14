@@ -5,14 +5,11 @@
 [![Platform](https://img.shields.io/badge/platform-Android-green.svg) ]()
 
 
-## 프로젝트 들어가기 전에 (Tech Stack) 
+## 프로젝트 들어가기 전에
 
 
-> [MYSQL 실습](https://github.com/lechangjun/Toy-Projects_SSAC/tree/main/MySQL8_Code)
 
-> [NOSQL 실습](https://github.com/lechangjun/Toy-Projects_SSAC/tree/main/MySQL8_Code)
-
-> [데이터 분석](https://github.com/lechangjun/Toy-Projects_SSAC/tree/main/COVID19_%20Analysis)
+> [Python](https://github.com/lechangjun/Toy-Projects_SSAC/tree/main/COVID19_%20Analysis)
 
 
 
