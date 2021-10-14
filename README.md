@@ -6,7 +6,6 @@
 
 
 ## 프로젝트 들어가기 전에 (Tech Stack) 
-> [Basics for Developing Python 🐉 => 파이썬 기본 기능과 웹 개발 ](https://github.com/lechangjun/Toy-Projects_SSAC/tree/main/WEB_development)
 
 
 > [MYSQL 실습](https://github.com/lechangjun/Toy-Projects_SSAC/tree/main/MySQL8_Code)
@@ -15,19 +14,8 @@
 
 > [데이터 분석](https://github.com/lechangjun/Toy-Projects_SSAC/tree/main/COVID19_%20Analysis)
 
-> [ELK 엘라스틱 서치](https://github.com/lechangjun/Toy-Projects_SSAC/tree/main/elastic-book-master)
 
-## :fire: 개인 프로젝트
 
-     * [지도 APP 생성](개인)
-     * [지도 APP 가족 지인 지도 표시](개인)
-     * [지도 APP ](개인)
-     * [AWS 알람 기능 추가](개인)
-     * [앱 런칭](개인)
-
-***
-## [💃🏻:미니 프로젝트 10조](https://github.com/lechangjun/Toy-Projects_SSAC/tree/main/%5B%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%8F%E1%85%A9%E1%84%8B%E1%85%A1%5D%E1%84%86%E1%85%B5%E1%84%82%E1%85%B5%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B301_10%E1%84%90%E1%85%B5%E1%86%B7_%E1%84%8B%E1%85%B5%E1%84%8E%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%AE%E1%86%AB_%E1%84%8B%E1%85%B2%E1%86%AB%E1%84%8C%E1%85%B5%E1%84%8B%E1%85%AF%E1%86%AB)
-- [발표](https://github.com/lechangjun/Toy-Projects_SSAC/blob/main/%5B%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%8F%E1%85%A9%E1%84%8B%E1%85%A1%5D%E1%84%86%E1%85%B5%E1%84%82%E1%85%B5%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B301_10%E1%84%90%E1%85%B5%E1%86%B7_%E1%84%8B%E1%85%B5%E1%84%8E%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%AE%E1%86%AB_%E1%84%8B%E1%85%B2%E1%86%AB%E1%84%8C%E1%85%B5%E1%84%8B%E1%85%AF%E1%86%AB/%5B%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%8F%E1%85%A9%E1%84%8B%E1%85%A1%5D%E1%84%86%E1%85%B5%E1%84%82%E1%85%B5%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B301_10%E1%84%90%E1%85%B5%E1%86%B7_%E1%84%8B%E1%85%B5%E1%84%8E%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%AE%E1%86%AB_%E1%84%8B%E1%85%B2%E1%86%AB%E1%84%8C%E1%85%B5%E1%84%8B%E1%85%AF%E1%86%AB%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD.pdf)
 
 ***
 
