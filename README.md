@@ -1,4 +1,4 @@
-# Toy-Projects_SSAC ( )
+# Toy-Projects_SSAC
 
 <img width="594" alt="image" src="https://user-images.githubusercontent.com/68671394/129550790-755a0976-72c5-4ce5-b188-0a96702688ee.png">
 
